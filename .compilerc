@@ -1,0 +1,14 @@
+{
+  "application/javascript": {
+    "presets": [
+      [
+        "env",
+        {
+          "targets": {
+            "electron": "1.7.9"
+          }
+        }
+      ]
+    ]
+  }
+}
